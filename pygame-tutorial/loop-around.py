@@ -1,3 +1,7 @@
+""" 
+hvis firkanten går utenfor skjermen, kommer den inn på motsatt side
+"""
+
 import pygame
 import sys
 

@@ -1,3 +1,7 @@
 game-jam.code-workspace
 
 .DS_Store
+.vscode/
+venv/
+.venv/
+__pycache__/

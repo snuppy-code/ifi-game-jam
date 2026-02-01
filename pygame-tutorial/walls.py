@@ -1,3 +1,7 @@
+""" 
+vegger som hindrer firkanten i å gå utenfor skjermem
+"""
+
 import pygame
 import sys
 
